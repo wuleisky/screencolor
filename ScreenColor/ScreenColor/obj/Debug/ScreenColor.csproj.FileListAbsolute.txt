@@ -1,0 +1,17 @@
+E:\资料\demo\ScreenColor\ScreenColor\bin\Debug\ScreenColor.exe.config
+E:\资料\demo\ScreenColor\ScreenColor\bin\Debug\ScreenColor.exe
+E:\资料\demo\ScreenColor\ScreenColor\bin\Debug\ScreenColor.pdb
+E:\资料\demo\ScreenColor\ScreenColor\obj\Debug\ScreenColor.csprojResolveAssemblyReference.cache
+E:\资料\demo\ScreenColor\ScreenColor\obj\Debug\MainWindow.baml
+E:\资料\demo\ScreenColor\ScreenColor\obj\Debug\MainWindow.g.cs
+E:\资料\demo\ScreenColor\ScreenColor\obj\Debug\App.g.cs
+E:\资料\demo\ScreenColor\ScreenColor\obj\Debug\ScreenColor_MarkupCompile.cache
+E:\资料\demo\ScreenColor\ScreenColor\obj\Debug\ScreenColor.g.resources
+E:\资料\demo\ScreenColor\ScreenColor\obj\Debug\ScreenColor.Properties.Resources.resources
+E:\资料\demo\ScreenColor\ScreenColor\obj\Debug\ScreenColor.csproj.GenerateResource.Cache
+E:\资料\demo\ScreenColor\ScreenColor\obj\Debug\ScreenColor.exe
+E:\资料\demo\ScreenColor\ScreenColor\obj\Debug\ScreenColor.pdb
+E:\资料\demo\ScreenColor\ScreenColor\obj\Debug\ColorPickers.baml
+E:\资料\demo\ScreenColor\ScreenColor\obj\Debug\ColorPickers.g.cs
+E:\资料\demo\ScreenColor\ScreenColor\bin\Debug\ScreenColorPicker.dll
+E:\资料\demo\ScreenColor\ScreenColor\bin\Debug\ScreenColorPicker.pdb

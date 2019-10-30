@@ -1,0 +1,7 @@
+E:\资料\demo\ScreenColor\ColorPickerDll\bin\Release\ScreenColorPicker.dll
+E:\资料\demo\ScreenColor\ColorPickerDll\bin\Release\ScreenColorPicker.pdb
+E:\资料\demo\ScreenColor\ColorPickerDll\obj\Release\ScreenColorPicker.ScreenColorPicker.resources
+E:\资料\demo\ScreenColor\ColorPickerDll\obj\Release\ScreenColorPicker.Properties.Resources.resources
+E:\资料\demo\ScreenColor\ColorPickerDll\obj\Release\ScreenColorPicker.csproj.GenerateResource.Cache
+E:\资料\demo\ScreenColor\ColorPickerDll\obj\Release\ScreenColorPicker.dll
+E:\资料\demo\ScreenColor\ColorPickerDll\obj\Release\ScreenColorPicker.pdb
